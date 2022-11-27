@@ -1,0 +1,10 @@
+.sidext{
+
+    background-color:tomato;font-size:larger;
+    padding: 5px;
+    margin-left: 420px;
+    margin-right: 420px;
+    border-radius: 120px;
+    border-color: blue;
+    border-style: dotted;
+}
